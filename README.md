@@ -20,13 +20,30 @@
 
 2. Getting Started
 
-   - File list  : ① Navigation.ipynb ② dqn_agent.py ③ model.py ④ checkpoint.pth(saved model)
+    - File list  : ① Navigation.ipynb ② dqn_agent.py ③ model.py ④ checkpoint.pth(saved model weights)
 
+    - Download the environment from one of the links below. You need only select the environment that matches your operating system:
+
+        Linux: click here
+        
+        Mac OSX: click here
+        
+        Windows (32-bit): click here
+        
+        Windows (64-bit): click here
+        
+        (For Windows users) Check out this link if you need help with determining if your computer is running a 32-bit version or 64-bit version of the Windows operating system.
+        
+
+        (For AWS) If you'd like to train the agent on AWS (and have not enabled a virtual screen), then please use this link to obtain the environment.
+
+    - Place the file in the course GitHub repository, in the p1_navigation/ folder, and unzip (or decompress) the file.
 
 
 3. Instructions
 
-   - Run the codes below '4. It's Your Turn!' in 'Navigation.ipynb'.
+   - Follow the instructions in Navigation.ipynb
+   - Run the codes below '4. It's Your Turn!' in 'Navigation.ipynb' to check the trained agent.
    - 'dqn_agent.py' and 'model.py' should be included in the same project with 'Navigation.ipynb'.
    - Experiment results of the trained model was already recorded in the notebook files.
   
