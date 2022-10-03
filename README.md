@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/55370676/193630580-1698a5b8-53b7-4b1e-a31a-0f2e4e5f16ff.png)
 
-A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.
+Reward : +1 when collecting a yellow banana, and -1 when collecting a blue banana.
 
 State Space :
 The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around the agent's forward direction. 
