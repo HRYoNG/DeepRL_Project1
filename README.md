@@ -20,7 +20,7 @@
 
 2. Getting Started
 
-   - File list  : ① Navigation.ipynb ② dqn_agent.py ③ model.py
+   - File list  : ① Navigation.ipynb ② dqn_agent.py ③ model.py ④ checkpoint.pth(saved model)
 
 
 
