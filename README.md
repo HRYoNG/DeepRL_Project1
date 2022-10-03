@@ -17,14 +17,16 @@
    - Goal : Environment solved when getting an average score of +13 over 100 consecutive episodes.
   
 
+
 2. Getting Started
 
    - File list  : ① Navigation.ipynb ② dqn_agent.py ③ model.py
 
 
+
 3. Instructions
 
-   - Run the codes below '4. It's Your Turn!' in the file 'Navigation.ipynb'.
-   - 'dqn_agent.py' and 'model.py' should be located in the same folder of 'Navigation.ipynb'.
+   - Run the codes below '4. It's Your Turn!' in 'Navigation.ipynb'.
+   - 'dqn_agent.py' and 'model.py' should be included in the same project with 'Navigation.ipynb'.
    - Experiment results of the trained model was already recorded in the notebook files.
   
