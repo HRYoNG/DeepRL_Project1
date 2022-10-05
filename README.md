@@ -37,7 +37,7 @@
 
         (For AWS) If you'd like to train the agent on AWS (and have not enabled a virtual screen), then please use this link to obtain the environment.
 
-    - Place the file in the course GitHub repository, in the p1_navigation/ folder, and unzip (or decompress) the file.
+    - Place the file in the course GitHub repository, in the DeepRL_Project1/ folder, and unzip (or decompress) the file.
 
 
 3. Instructions
